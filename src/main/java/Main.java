@@ -9,8 +9,8 @@ public class Main {
         StringManipulator manipulator = new StringManipulator(input);
 
         manipulator.aToAt();
+        manipulator.abc();
         manipulator.appendExclaim();
-
         System.out.println(manipulator);
     }
 }
