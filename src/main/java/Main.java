@@ -11,6 +11,7 @@ public class Main {
         manipulator.aToAt();
         manipulator.abc();
         manipulator.appendExclaim();
+        manipulator.examPractice();
         System.out.println(manipulator);
     }
 }

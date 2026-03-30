@@ -18,4 +18,6 @@ public class StringManipulator {
     }
 
     public void abc() {string = string + " abcdefghijklmnopqrstuvwxyz there is the abc i did it";}
+
+    public void examPractice() { string = string + " Ignore please.";}
 }
