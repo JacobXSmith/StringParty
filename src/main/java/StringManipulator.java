@@ -16,4 +16,9 @@ public class StringManipulator {
     public void appendExclaim() {
         string = string + "!!!";
     }
+
+
+    // Lol
+
+
 }
